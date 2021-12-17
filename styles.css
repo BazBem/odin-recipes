@@ -1,9 +1,9 @@
 * {
-    background-color: gold;
+    background-image: linear-gradient(red, gold, green);
 }
 
 h1 {
-    color: red;
+    color: black;
 }
 
 img {
@@ -12,10 +12,10 @@ img {
 }
 
 ul, li {
-    color: red;
+    color: black;
 }
 
 body {
-    border: 5px solid green;
+    border: 5px solid black;
     padding: 10px;
 }
